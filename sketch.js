@@ -64,6 +64,3 @@ if(fairy.y-star.y<fairy.height/2+star.height/2&&star.y>470){
 
 }
 
-function keyPressed() {
-	//write code here
-}
